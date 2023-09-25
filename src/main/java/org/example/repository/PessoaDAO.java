@@ -1,4 +1,6 @@
-package org.example;
+package org.example.repository;
+
+import org.example.entity.Pessoa;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
